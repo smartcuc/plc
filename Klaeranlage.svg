@@ -11,7 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   sodipodi:docname="Klaeranalge.svg"
+   sodipodi:docname="Klaeranlage.svg"
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
    inkscape:export-filename="F:\BISTANIKA\Project- S\S.UDANG SEWAGE PLANT 2.bmp"
    height="800"
@@ -1702,7 +1702,7 @@
      borderopacity="1.0"
      inkscape:current-layer="layer1"
      inkscape:cx="640"
-     inkscape:cy="400"
+     inkscape:cy="631.81994"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -1729,7 +1729,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2494,7 +2494,7 @@
        font-size="40px"
        y="209.08795"
        x="305.40866"
-       inkscape:label="{attr:&quot;get&quot;,tag:&quot;inFlow2&quot;,align:&quot;right&quot;,type:&quot;good&quot;}"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Kuehlschrank-Leistung&quot;,&quot;type&quot;:&quot;Good&quot;}"
        style="font-size:40px;line-height:0%;font-family:Arial;fill:#ffef3b"><tspan
          id="tspan3602"
          sodipodi:role="line"
@@ -2654,7 +2654,7 @@ if(0 != getTag ('inFlow2_Total')) { alert(&quot;NOTE: If your SET VALUE does not
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        inkscape:label=""
-       style="fill:none;stroke:#b3b3b3;stroke-width:8;stroke-linecap:round;stroke-opacity:0.94120005" />
+       style="fill:none;stroke:#b3b3b3;stroke-width:8;stroke-linecap:round;stroke-opacity:0.94120011" />
     <path
        id="use5197"
        d="M 630.8,65.79 V 43.77"
@@ -5953,7 +5953,7 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        font-size="40px"
        y="49.545094"
        x="305.40866"
-       inkscape:label="{attr:&quot;get&quot;,tag:&quot;inFlow1&quot;,align:&quot;right&quot;,type:&quot;good&quot;}"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Kuehlschrank&quot;,&quot;type&quot;:&quot;Good&quot;}"
        style="font-size:40px;line-height:0%;font-family:Arial;fill:#ffef3b"><tspan
          id="tspan3410"
          sodipodi:role="line"
