@@ -1701,8 +1701,8 @@
      height="680px"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="640"
-     inkscape:cy="631.81994"
+     inkscape:cx="1089.6697"
+     inkscape:cy="225.90487"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -1739,11 +1739,11 @@
      inkscape:groupmode="layer">
     <rect
        id="rect2605"
-       height="4085"
-       width="5593"
-       y="-1642"
-       x="-2156"
-       style="fill:#c6c5c4;stroke:#b3b3b3;stroke-width:1.52100003;stroke-linecap:square" />
+       height="863.56458"
+       width="1330.0542"
+       y="-27.854671"
+       x="-28.486027"
+       style="fill:#c6c5c4;stroke:#b3b3b3;stroke-width:0.34103021;stroke-linecap:square" />
     <text
        id="text2430"
        line-height="125%"
@@ -1757,7 +1757,7 @@
          sodipodi:role="line"
          x="133.03932"
          y="707.82245"
-         style="font-size:12px;line-height:1.25">Powered by igrX; Copyright 2009 Ecava; All Rights Reserved.</tspan></text>
+         style="font-size:12px;line-height:1.25">Powered by smartEVO Copyright 2019 Ecava; All Rights Reserved.</tspan></text>
   </g>
   <g
      id="layer1"
@@ -2654,7 +2654,7 @@ if(0 != getTag ('inFlow2_Total')) { alert(&quot;NOTE: If your SET VALUE does not
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        inkscape:label=""
-       style="fill:none;stroke:#b3b3b3;stroke-width:8;stroke-linecap:round;stroke-opacity:0.94120011" />
+       style="fill:none;stroke:#b3b3b3;stroke-width:8;stroke-linecap:round;stroke-opacity:0.94120017" />
     <path
        id="use5197"
        d="M 630.8,65.79 V 43.77"
@@ -5568,7 +5568,7 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        style="fill:url(#radialGradient4526);stroke:#000000;stroke-width:1.77699995" />
     <g
        id="g4510"
-       inkscape:label="{attr:&quot;opac&quot;,tag:&quot;cauticTank_LL&quot;,max:1,min:0}"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;Level-WC&quot;}"
        transform="translate(189.3,279.9)">
       <rect
          id="rect4512"
