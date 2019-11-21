@@ -1697,12 +1697,12 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     inkscape:zoom="0.5188"
+     inkscape:zoom="1.0376"
      height="680px"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
      inkscape:cx="525.99924"
-     inkscape:cy="225.90487"
+     inkscape:cy="458.84241"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -5555,7 +5555,7 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        width="81.940002"
        y="556.29999"
        x="967"
-       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;Level-KaZi-2&quot;}"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;Level-KaZi-2&quot;}"
        style="fill:url(#radialGradient4524)" />
     <ellipse
        id="path4506"
