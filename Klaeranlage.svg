@@ -1697,11 +1697,11 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     inkscape:zoom="1.467388"
+     inkscape:zoom="0.5188"
      height="680px"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="1089.6697"
+     inkscape:cx="525.99924"
      inkscape:cy="225.90487"
      borderlayer="true"
      inkscape:window-maximized="1"
@@ -1739,11 +1739,11 @@
      inkscape:groupmode="layer">
     <rect
        id="rect2605"
-       height="863.56458"
-       width="1330.0542"
-       y="-27.854671"
-       x="-28.486027"
-       style="fill:#c6c5c4;stroke:#b3b3b3;stroke-width:0.34103021;stroke-linecap:square" />
+       height="1033.3301"
+       width="1615.4539"
+       y="-114.75459"
+       x="-165.4843"
+       style="fill:#c6c5c4;stroke:#b3b3b3;stroke-width:0.41112849;stroke-linecap:square" />
     <text
        id="text2430"
        line-height="125%"
@@ -2654,7 +2654,7 @@ if(0 != getTag ('inFlow2_Total')) { alert(&quot;NOTE: If your SET VALUE does not
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        inkscape:label=""
-       style="fill:none;stroke:#b3b3b3;stroke-width:8;stroke-linecap:round;stroke-opacity:0.94120017" />
+       style="fill:none;stroke:#b3b3b3;stroke-width:8;stroke-linecap:round;stroke-opacity:0.94120029" />
     <path
        id="use5197"
        d="M 630.8,65.79 V 43.77"
@@ -5555,7 +5555,7 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        width="81.940002"
        y="556.29999"
        x="967"
-       inkscape:label="{attr:&quot;opac&quot;,tag:&quot;cauticTank_LL&quot;,max:0,min:1}"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;Level-WC&quot;}"
        style="fill:url(#radialGradient4524)" />
     <ellipse
        id="path4506"
