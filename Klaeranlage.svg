@@ -1739,11 +1739,11 @@
      inkscape:groupmode="layer">
     <rect
        id="rect2605"
-       height="1224.3245"
-       width="1856.5312"
-       y="-190.11879"
-       x="-258.16351"
-       style="fill:#c6c5c4;stroke:#b3b3b3;stroke-width:0.47974467;stroke-linecap:square" />
+       height="863.54608"
+       width="1615.4714"
+       y="-27.845413"
+       x="-165.4931"
+       style="fill:#c6c5c4;stroke:#b3b3b3;stroke-width:0.37584016;stroke-linecap:square" />
     <text
        id="text2430"
        line-height="125%"
@@ -2654,7 +2654,7 @@ if(0 != getTag ('inFlow2_Total')) { alert(&quot;NOTE: If your SET VALUE does not
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        inkscape:label=""
-       style="fill:none;stroke:#b3b3b3;stroke-width:8;stroke-linecap:round;stroke-opacity:0.94120029" />
+       style="fill:none;stroke:#b3b3b3;stroke-width:8;stroke-linecap:round;stroke-opacity:0.94120023" />
     <path
        id="use5197"
        d="M 630.8,65.79 V 43.77"
@@ -5555,12 +5555,12 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        width="81.940002"
        y="556.29999"
        x="967"
-       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;Level-KaZi-2&quot;}"
+       inkscape:label="{attr:&quot;opac&quot;,tag:&quot;cauticTank_LL&quot;,max:0,min:1}"
        style="fill:url(#radialGradient4524)" />
     <ellipse
        id="path4506"
        transform="matrix(0.3991,0,0,0.7935,999.3,75.75)"
-       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;Level-KaZi-2&quot;}"
+       inkscape:label="{attr:&quot;opac&quot;,tag:&quot;cauticTank_LL&quot;,max:0,min:1}"
        cx="24.576"
        cy="606.27197"
        rx="106.496"
