@@ -1697,11 +1697,11 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     inkscape:zoom="2.0752"
+     inkscape:zoom="1"
      height="680px"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="525.99924"
+     inkscape:cx="758.38242"
      inkscape:cy="304.64041"
      borderlayer="true"
      inkscape:window-maximized="1"
@@ -2493,15 +2493,15 @@
        xml:space="preserve"
        font-size="40px"
        y="209.08795"
-       x="305.40866"
+       x="353.40866"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Kuehlschrank-Leistung&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       style="font-size:40px;line-height:0%;font-family:Arial;fill:#ffef3b"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffef3b"><tspan
          id="tspan3602"
          sodipodi:role="line"
          font-size="14px"
          y="209.08795"
-         x="305.40866"
-         style="font-size:14px;line-height:1.25;fill:#ffef3b">###0.0</tspan></text>
+         x="353.40866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffef3b">###0.0</tspan></text>
     <g
        id="g3624"
        inkscape:label="{attr:&quot;script&quot;,evt:&quot;mouseup&quot;,param:&quot;var answer = confirm(\&quot;RESET. Proceed?\&quot;); if(answer)\{ setTag ('inFlow1_Total', 0);\} if(0 != getTag ('inFlow1_Total')) \{ alert(\&quot;NOTE: If your SET VALUE does not change as desired, please LOGIN with authorised user name and password and then try to initiate the desired operation again.\&quot;);\}&quot;}"
@@ -5735,7 +5735,9 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffef3b;stroke-width:0.59539384"
        transform="scale(1.1634206,0.85953437)"><tspan
          sodipodi:role="line"
-         id="tspan1962">0.0</tspan></text>
+         id="tspan1962"
+         x="673.28955"
+         y="597.66705">0.0</tspan></text>
     <path
        id="path4491"
        d="m 966.9,375.9 v -0.1316 c 0,0.0451 0.0252,0.0868 0.0312,0.1316 z m 0,-0.1316 v -93.18 -0.1316 h 0.0312 c 0.4723,-3.509 19.3,-6.317 42.47,-6.317 23.16,0 42,2.809 42.47,6.317 h 0.031 v 0.1316 93.18 c 0,-3.571 -19.04,-6.449 -42.5,-6.449 -23.46,0 -42.5,2.878 -42.5,6.449 z"
