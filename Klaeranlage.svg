@@ -1702,7 +1702,7 @@
      borderopacity="1.0"
      inkscape:current-layer="layer1"
      inkscape:cx="525.99924"
-     inkscape:cy="458.84241"
+     inkscape:cy="304.64041"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -2577,7 +2577,7 @@ if(0 != getTag ('inFlow2_Total')) { alert(&quot;NOTE: If your SET VALUE does not
        font-size="40px"
        y="369.84125"
        x="214.23642"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Level-FlurEG&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Level-FlurEG&quot;,&quot;type&quot;:&quot;Live&quot;}"
        style="font-size:40px;line-height:0%;font-family:Arial;fill:#ffef3b"><tspan
          id="tspan3444"
          sodipodi:role="line"
