@@ -1697,12 +1697,12 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     inkscape:zoom="1.4142136"
+     inkscape:zoom="0.70710678"
      height="680px"
      borderopacity="1.0"
-     inkscape:current-layer="layer1"
-     inkscape:cx="408.656"
-     inkscape:cy="650.23213"
+     inkscape:current-layer="layer2"
+     inkscape:cx="576.82253"
+     inkscape:cy="288.96552"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -1750,13 +1750,13 @@
        xml:space="preserve"
        font-size="12px"
        font-style="italic"
-       y="707.82245"
-       x="133.03932"
+       y="671.76001"
+       x="12.831169"
        style="font-style:italic;font-size:12px;line-height:0%;font-family:Arial;fill:#000000"><tspan
          id="tspan2432"
          sodipodi:role="line"
-         x="133.03932"
-         y="707.82245"
+         x="12.831169"
+         y="671.76001"
          style="font-size:12px;line-height:1.25">Powered by smartEVO Copyright 2019 Ecava; All Rights Reserved.</tspan></text>
   </g>
   <g
@@ -2497,7 +2497,9 @@
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Kuehlschrank-Leistung&quot;,&quot;type&quot;:&quot;Good&quot;}"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffef3b"><tspan
          sodipodi:role="line"
-         id="tspan16887">%.1f</tspan></text>
+         id="tspan16887"
+         x="353.40866"
+         y="209.08795">%.1f</tspan></text>
     <g
        id="g3624"
        inkscape:label="{attr:&quot;script&quot;,evt:&quot;mouseup&quot;,param:&quot;var answer = confirm(\&quot;RESET. Proceed?\&quot;); if(answer)\{ setTag ('inFlow1_Total', 0);\} if(0 != getTag ('inFlow1_Total')) \{ alert(\&quot;NOTE: If your SET VALUE does not change as desired, please LOGIN with authorised user name and password and then try to initiate the desired operation again.\&quot;);\}&quot;}"
@@ -2981,14 +2983,14 @@ if(0 != getTag ('effFlow_Total')) { alert(&quot;NOTE: If your SET VALUE does not
        id="text3022"
        xml:space="preserve"
        font-size="40px"
-       y="622.84802"
-       x="179.28001"
+       y="629.91913"
+       x="22.302307"
        style="font-size:40px;line-height:0%;font-family:Arial;fill:#000000"><tspan
          id="tspan3024"
          sodipodi:role="line"
          font-size="32px"
-         y="622.84802"
-         x="179.28001"
+         y="629.91913"
+         x="22.302307"
          style="font-size:32px;line-height:1.25">PLANT OVERVIEW</tspan></text>
     <use
        id="use3033"
@@ -5947,15 +5949,13 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        xml:space="preserve"
        font-size="40px"
        y="49.545094"
-       x="305.40866"
+       x="321.67212"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Kuehlschrank&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       style="font-size:40px;line-height:0%;font-family:Arial;fill:#ffef3b"><tspan
-         id="tspan3410"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffef3b"><tspan
          sodipodi:role="line"
-         font-size="14px"
-         y="49.545094"
-         x="305.40866"
-         style="font-size:14px;line-height:1.25;fill:#ffef3b">###0.0</tspan></text>
+         id="tspan16889"
+         x="321.67212"
+         y="49.545094">%.1f</tspan></text>
     <g
        id="g3465"
        transform="translate(144.6,-96.74)">
