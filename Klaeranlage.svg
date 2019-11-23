@@ -1697,12 +1697,12 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     inkscape:zoom="0.70710678"
+     inkscape:zoom="1.4142136"
      height="680px"
      borderopacity="1.0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:cx="576.82253"
-     inkscape:cy="288.96552"
+     inkscape:cy="345.53406"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -2569,20 +2569,6 @@ if(0 != getTag ('inFlow2_Total')) { alert(&quot;NOTE: If your SET VALUE does not
          style="font-size:10px;line-height:1.25;text-align:center;text-anchor:middle"
          y="343.30862"
          x="235.16313">BASIN LEVEL</tspan></text>
-    <text
-       id="text3442"
-       xml:space="preserve"
-       font-size="40px"
-       y="388.10397"
-       x="218.134"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Level-FlurEG&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffef3b;stroke-width:0.49566066"
-       transform="scale(1.0506704,0.95177325)"><tspan
-         sodipodi:role="line"
-         id="tspan16641"
-         x="218.134"
-         y="388.10397"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.49566066">%.1f</tspan></text>
     <text
        id="text3470"
        style="font-size:10px;line-height:0%;font-family:Arial;text-align:center;text-anchor:middle;fill:#000000"
@@ -6568,5 +6554,19 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
          inkscape:label=""
          style="fill:url(#radialGradient5395)" />
     </g>
+    <text
+       id="text3442"
+       xml:space="preserve"
+       font-size="40px"
+       y="388.10397"
+       x="218.134"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Level-FlurEG&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffef3b;stroke-width:0.49566066"
+       transform="scale(1.0506704,0.95177325)"><tspan
+         sodipodi:role="line"
+         id="tspan16641"
+         x="218.134"
+         y="388.10397"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.49566066">%.1f</tspan></text>
   </g>
 </svg>
