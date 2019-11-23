@@ -1702,7 +1702,7 @@
      borderopacity="1.0"
      inkscape:current-layer="layer1"
      inkscape:cx="576.82253"
-     inkscape:cy="456.60012"
+     inkscape:cy="569.73721"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -5932,14 +5932,14 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        id="text3408"
        xml:space="preserve"
        font-size="40px"
-       y="49.545094"
-       x="321.67212"
+       y="48.837986"
+       x="324.50055"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;PM10&quot;,&quot;type&quot;:&quot;Good&quot;}"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffef3b"><tspan
          sodipodi:role="line"
          id="tspan980"
-         x="321.67212"
-         y="49.545094">%.1f</tspan></text>
+         x="324.50055"
+         y="48.837986">%.1f</tspan></text>
     <g
        id="g3465"
        transform="translate(144.6,-96.74)">
