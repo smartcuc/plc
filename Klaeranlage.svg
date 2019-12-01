@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100%"
-   height="100%"
+   width="1500px"
+   height="800px"
    id="svg2"
    sodipodi:docname="Klaeranlage.svg"
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
@@ -2466,11 +2466,11 @@
      transform="translate(38.487646,26.34504)">
     <rect
        id="rect2605"
-       height="801.35779"
-       width="1280.0638"
-       y="-27.863951"
-       x="-38.326504"
-       style="fill:#c6c5c4;stroke:#b3b3b3;stroke-width:0.32228473;stroke-linecap:square" />
+       height="801.33911"
+       width="1500.948"
+       y="-26.440405"
+       x="-41.431171"
+       style="fill:#c6c5c4;stroke:#b3b3b3;stroke-width:0.3489809;stroke-linecap:square" />
     <text
        id="text2430"
        line-height="125%"
