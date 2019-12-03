@@ -19,7 +19,7 @@
    version="1.1"
    inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)"
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {};"
-   sodipodi:docname="kor1.svg">
+   sodipodi:docname="kor0.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#d7d7d7"
