@@ -19,7 +19,7 @@
    width="100%" 
    height="100%" 
    viewBox="0 0 520 320" 
-   preserveAspectRatio="xMidYMid meet">
+   preserveAspectRatio="none">
   <sodipodi:namedview
      id="base"
      pagecolor="#d7d7d7"
