@@ -21,7 +21,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-ydpi="90"
    sodipodi:modified="true"
-   inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs4">
     <linearGradient
@@ -2422,7 +2422,7 @@
      borderopacity="1.0"
      inkscape:current-layer="layer1"
      inkscape:cx="836.12077"
-     inkscape:cy="523.60566"
+     inkscape:cy="297.3315"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -2455,7 +2455,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6436,12 +6436,12 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
        y="0"
        x="0" />
     <text
-       id="text3474"
+       id="Level_Sump"
        xml:space="preserve"
        font-size="40px"
        y="597.66705"
        x="673.28955"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Level-FlurEG&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       inkscape:label=""
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffef3b;stroke-width:0.59539384"
        transform="scale(1.1634206,0.85953437)"><tspan
          sodipodi:role="line"
@@ -7281,12 +7281,12 @@ if(0 != getTag ('effFlow_L')) { alert(&quot;NOTE: If your SET VALUE does not cha
          style="fill:url(#radialGradient5395)" />
     </g>
     <text
-       id="text3442"
+       id="Level_Basin"
        xml:space="preserve"
        font-size="40px"
        y="388.10397"
        x="218.134"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Level-FlurEG&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       inkscape:label=""
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffef3b;stroke-width:0.49566066"
        transform="scale(1.0506704,0.95177325)"><tspan
          sodipodi:role="line"
