@@ -18,7 +18,7 @@
    width="1280"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs2536">
     <linearGradient
@@ -42,9 +42,9 @@
      id="base"
      inkscape:zoom="0.7568"
      borderopacity="1.0"
-     inkscape:current-layer="g4186"
-     inkscape:cx="716.5"
-     inkscape:cy="307"
+     inkscape:current-layer="layer1"
+     inkscape:cx="866.41427"
+     inkscape:cy="331.16159"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1337,7 +1337,8 @@
        x="0" />
     <g
        id="g2846"
-       transform="matrix(2.099,0,0,2.099,-452.1,-56.79)">
+       transform="matrix(2.099,0,0,2.099,-452.1,-56.79)"
+       inkscape:label="g2846">
       <rect
          id="rect3857"
          height="5.1199999"
@@ -1574,6 +1575,28 @@
          y="656.59998"
          x="263.60001"
          style="fill:#ffcc00;stroke:#ffcc00" />
+      <rect
+         style="fill:#bee8c9;fill-opacity:0.78688528;stroke-width:0.47641733"
+         id="rect1352"
+         width="112.81563"
+         height="1.5245355"
+         x="598.04669"
+         y="385.32159" />
+      <rect
+         style="fill:#bee8c9;fill-opacity:0.78688528;stroke-width:0.47641733"
+         id="7213H1-2"
+         width="22.868032"
+         height="1.5245355"
+         x="598.04669"
+         y="388.37067"
+         inkscape:label="#rect1354" />
+      <rect
+         style="fill:#bee8c9;fill-opacity:0.78688528;stroke-width:0.47641733"
+         id="rect1356"
+         width="21.343496"
+         height="1.5245355"
+         x="622.43927"
+         y="388.37067" />
     </g>
     <circle
        id="path3428"
