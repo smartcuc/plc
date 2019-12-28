@@ -40,11 +40,11 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     inkscape:zoom="0.7568"
+     inkscape:zoom="3.0272"
      borderopacity="1.0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2846"
      inkscape:cx="866.41427"
-     inkscape:cy="331.16159"
+     inkscape:cy="119.74509"
      borderlayer="true"
      inkscape:window-maximized="1"
      showgrid="true"
@@ -1584,7 +1584,7 @@
          y="385.32159" />
       <rect
          style="fill:#bee8c9;fill-opacity:0.78688528;stroke-width:0.47641733"
-         id="7213H1-2"
+         id="HS01"
          width="22.868032"
          height="1.5245355"
          x="598.04669"
@@ -1592,11 +1592,12 @@
          inkscape:label="#rect1354" />
       <rect
          style="fill:#bee8c9;fill-opacity:0.78688528;stroke-width:0.47641733"
-         id="rect1356"
+         id="HS02"
          width="21.343496"
          height="1.5245355"
          x="622.43927"
-         y="388.37067" />
+         y="388.37067"
+         inkscape:label="#rect1356" />
     </g>
     <circle
        id="path3428"
