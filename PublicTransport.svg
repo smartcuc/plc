@@ -3041,7 +3041,7 @@
     <circle
        id="path3977"
        transform="matrix(2.099,0,0,2.099,-934.7,461.9)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#ff0000/white&quot;,&quot;tag&quot;:&quot;tren2_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren2_F&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:2300,&quot;min&quot;:1600,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren2_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;T102&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="648"
        cy="54.599998"
        r="4.8000002"
@@ -3057,7 +3057,7 @@
     <circle
        id="path3981"
        transform="matrix(2.099,0,0,2.099,-408.5,-82.99)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#ff5500/white&quot;,&quot;tag&quot;:&quot;tren3_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren3_A&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:600,&quot;min&quot;:0,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren3_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;T103&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="648"
        cy="54.599998"
        r="4.8000002"
@@ -3073,7 +3073,7 @@
     <circle
        id="path3985"
        transform="matrix(2.099,0,0,2.099,-408.8,98.59)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#ff5500/white&quot;,&quot;tag&quot;:&quot;tren3_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren3_B&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:800,&quot;min&quot;:600,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren3_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;T103&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="648"
        cy="54.599998"
        r="4.8000002"
@@ -3329,7 +3329,7 @@
     <circle
        id="path4049"
        transform="matrix(2.099,0,0,2.099,-934.7,461.9)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#ffff00/white&quot;,&quot;tag&quot;:&quot;tren5_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren5_F&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:2300,&quot;min&quot;:1600,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren5_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;T105&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="648"
        cy="54.599998"
        r="4.8000002"
@@ -3793,7 +3793,7 @@
     <circle
        id="path4330"
        transform="matrix(3.007,0,0,3.007,-639.3,423.9)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#8800aa/white&quot;,&quot;tag&quot;:&quot;tren13_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren13_C&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:1350,&quot;min&quot;:800,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren13_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;KM113&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="528"
        cy="49.799999"
        r="3.2"
@@ -3809,7 +3809,7 @@
     <circle
        id="path4334"
        transform="matrix(3.007,0,0,3.007,-647.1,309.2)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#8800aa/white&quot;,&quot;tag&quot;:&quot;tren13_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren13_D&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:2200,&quot;min&quot;:1350,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren13_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;KM113&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="528"
        cy="49.799999"
        r="3.2"
@@ -3825,7 +3825,7 @@
     <circle
        id="path4338"
        transform="matrix(3.007,0,0,3.007,-979.8,305.5)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#8800aa/white&quot;,&quot;tag&quot;:&quot;tren13_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren13_E&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:3400,&quot;min&quot;:2200,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren13_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;KM113&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="528"
        cy="49.799999"
        r="3.2"
@@ -3841,7 +3841,7 @@
     <circle
        id="path4342"
        transform="matrix(3.007,0,0,3.007,-890.4,546.8)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#cc00ff/white&quot;,&quot;tag&quot;:&quot;tren14_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren14_A&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:200,&quot;min&quot;:0,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren14_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;KM114&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="528"
        cy="49.799999"
        r="3.2"
@@ -3857,7 +3857,7 @@
     <circle
        id="path4346"
        transform="matrix(3.007,0,0,3.007,-814.4,546)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#cc00ff/white&quot;,&quot;tag&quot;:&quot;tren14_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren14_B&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:800,&quot;min&quot;:200,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren14_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;KM114&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="528"
        cy="49.799999"
        r="3.2"
@@ -3873,7 +3873,7 @@
     <circle
        id="path4350"
        transform="matrix(3.007,0,0,3.007,-639.3,423.9)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#cc00ff/white&quot;,&quot;tag&quot;:&quot;tren14_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren14_C&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:1350,&quot;min&quot;:800,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren14_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;KM114&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="528"
        cy="49.799999"
        r="3.2"
@@ -3889,7 +3889,7 @@
     <circle
        id="path4354"
        transform="matrix(3.007,0,0,3.007,-647.1,309.2)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#cc00ff/white&quot;,&quot;tag&quot;:&quot;tren14_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren14_D&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:2200,&quot;min&quot;:1350,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren14_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;KM114&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="528"
        cy="49.799999"
        r="3.2"
@@ -3905,7 +3905,7 @@
     <circle
        id="path4358"
        transform="matrix(3.007,0,0,3.007,-979.8,305.5)"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#cc00ff/white&quot;,&quot;tag&quot;:&quot;tren14_run&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;tren14_E&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:3400,&quot;min&quot;:2200,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;tren14_counter&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;KM114&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+       inkscape:label=""
        cx="528"
        cy="49.799999"
        r="3.2"
